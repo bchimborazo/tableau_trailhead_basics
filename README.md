@@ -3,7 +3,7 @@
 - Goal of Assignment: Learn to create and publish a Tableau public visualization
 
 # Trailhead Module Badges
-- Link of Trailhead Profile showing completed badges: https://www.salesforce.com/trailblazer/bdzpi6v9z7fjof7htb
+- Link to Trailhead Profile showing completed badges: https://www.salesforce.com/trailblazer/bdzpi6v9z7fjof7htb
 ## Data Storytelling with Tableau Public - Completed on 11/13/25
 ![Datastorytellingbadge](images/DataStorytellingWTableau1.png)
 
