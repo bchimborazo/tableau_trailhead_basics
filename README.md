@@ -3,6 +3,7 @@
 - Goal of Assignment: Learn to create and publish a Tableau public visualization
 
 # Trailhead Module Badges
+- Link of Trailhead Profile showing completed badges: https://www.salesforce.com/trailblazer/bdzpi6v9z7fjof7htb
 ## Data Storytelling with Tableau Public - Completed on 11/13/25
 ![Datastorytellingbadge](images/DataStorytellingWTableau1.png)
 
@@ -16,6 +17,7 @@
 # Tableau Public Visualization
 ## Great British Bake Off
 - Tableau Visualizations Link: https://public.tableau.com/views/HW_17630876694930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- The datasets used for these visualizations are "Bakers" and "Outcomes", these can be found in the "datasets used" folder. 
 ### Dashboard
 - This dashboard presents an analysis of Great British Bake Off performance metrics focusing on age and total competition time. The top visualization, Performance by Age Group, compares the frequency of major achievements (Star Baker wins) against Eliminations across different age brackets. The bottom visualization, Baker Age vs. Total Episode Appearances, maps individual baker performance to their specific age. Collectively, the dashboard suggests that the highest volume of competition (both success and elimination) is concentrated among younger bakers, while the performance of older bakers shows greater variability.
 
